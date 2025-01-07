@@ -1,3 +1,3 @@
 # TBPPP_PROJECT
 
-Uttam Kum
+Uttam Kumar
